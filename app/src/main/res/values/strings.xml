@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Assignment5paisa</string>
+    <string name="loginText">Login</string>
+    <string name="username">Username</string>
+    <string name="proceed">Proceed</string>
+    <string name="new_user">New User?</string>
+    <string name="register">Register</string>
+    <string name="choose_language">Choose Language</string>
+    <string name="title_activity_watch_list">WatchListActivity</string>
+    <string name="watchlist_1">watchlist1_data.json</string>
+    <string name="watchlist_2">watchlist2_data.json</string>
+    <string name="watchlist_3">watchlist3_data.json</string>
+    <string name="watchlist_names">watchlist_names.json</string>
+    <string name="shortname">shortName</string>
+    <string name="nse">NSE</string>
+    <string name="price">Price</string>
+    <string name="pclose">PClose</string>
+    <string name="vol">Vol</string>
+    <string name="lasttradetime">LastTradeTime</string>
+    <string name="dayhigh">DayHigh</string>
+    <string name="scripcodevalue">scripCodeValue</string>
+    <string name="nsebsecodevalue">nseBseCodeValue</string>
+    <string name="daylowvalue">dayLowValue</string>
+    <string name="dayhighvalue">dayHighValue</string>
+    <string name="nsebsecode">NseBseCode</string>
+    <string name="scripcode">ScripCode</string>
+    <string name="daylow">DayLow</string>
+    <string name="preference_file_key">PRIVATE_PREFRENCES_FIVE_PAISA</string>
+    <string name="by_pclose">By PClose</string>
+    <string name="by_vol">By Vol</string>
+    <string name="by_time">By Time</string>
+    <string name="password">Password</string>
+</resources>
